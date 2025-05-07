@@ -30,7 +30,3 @@ For the server side, Python is required on your computer. If Python is not insta
 ### Running:
 1. Navigate to the `main.py` file.
 2. Click the run button at the top of Visual Studio Code. Make sure the path in the terminal is set to the `server` directory.
-
-EADME.md…]()
-
-Crypto coin prediction service
