@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/20085936/README.md)# Top_Crypto_Final_Project[Uploading R# Top_Crypto_Final_Project
-
 # Installation Instructions
 
 The zip file contains 2 files: this PDF and a folder named `Top Crypto`, which includes 2 subfolders: `client` and `server`. The `client` folder contains the client-side code, and the `server` folder contains the server-side code.
